@@ -4,7 +4,7 @@
 
 let circle ={
 
-  radius:0,
+  radius:null,
   Area: function(){
   return (this.radius**2)*(22/7);
   }
