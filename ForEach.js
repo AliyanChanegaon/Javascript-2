@@ -12,3 +12,13 @@ sweet.forEach(function(element,index,array){
   //index - 0,1,2,3
   //array sweets as a whole
 })
+
+
+
+
+
+
+
+
+
+
